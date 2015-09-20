@@ -1,0 +1,16 @@
+
+http://localhost:8080/thehytt/request/post
+
+{
+  "userId": "singh.bk@gmail.com",
+  "cscId": "BLR-KA-IN",
+  "srcLat": 12.121212,
+  "srcLng": 77.121216,
+  "srcAddress": "HSR LAyout",
+  "destLat": 12.121212,
+  "destLng": 77.121216,
+  "destAddress": "HSR LAyout",
+  "pps": 2,
+  "travelTime": 15080953,
+  "seatsOffered": 3
+}

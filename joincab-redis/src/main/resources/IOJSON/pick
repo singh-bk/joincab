@@ -1,0 +1,9 @@
+http://localhost:8080/thehytt/request/pick
+{
+  "requestorId": "singh.bk@gmail.com",
+  "requestType": 2,
+  "price": 2,
+  "hopId": "dada501b-2b93-42cb-ae5d-7b7916deed86",
+  "postId": "8d5ea4fb-590a-4b3e-93b4-e42d98c3b0ee",
+  "recipientid": "singh.bk@gmail.com"
+}

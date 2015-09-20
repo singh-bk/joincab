@@ -1,0 +1,10 @@
+
+http://localhost:8080/thehytt/request/join
+{
+  "requestorId": "singh.bk@gmail.com",
+  "requestType": 1,
+  "price": 2,
+  "hopId": "ac06fc64-1bb1-4a84-a482-68014f133cc3",
+  "postId": "a8d90c8f-42e9-4c71-b10b-d792c34d1eeb",
+  "recipientid": "singh.bk@gmail.com"
+}

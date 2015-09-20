@@ -1,0 +1,12 @@
+http://localhost:8080/thehytt/search/rides
+
+{
+  "srcLat": 12.121212,
+  "srcLng": 77.121216,
+  "srcPlaceId": "abcdef1234",
+  "destLat": 12.121212,
+  "destLng": 77.121216,
+  "destPlaceId": "abcdfgh4321",
+  "travelTime": 15080955,
+  "pps": 150
+}

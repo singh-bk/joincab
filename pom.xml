@@ -16,7 +16,7 @@
 	</modules>
 	<properties>
 		<spring.framework.version>4.0.6.RELEASE</spring.framework.version>
-		<spring.security.version>3.2.0.RELEASE</spring.security.version>
+		<spring.security.version>5.3.3.RELEASE</spring.security.version>
 		<log4j.version>1.2.16</log4j.version>
 		<spring.framework.ldap>1.3.1.RELEASE</spring.framework.ldap>
 		<spring.integration.version>4.0.3.RELEASE</spring.integration.version>
